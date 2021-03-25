@@ -3,8 +3,9 @@
 
 Este projeto nada mais é que uma página html estática, que foi utilizada p/ testar conceitos práticos do uso das ferramentas Git e Github.
 
-<!-- ![screenshoot tela inicial](images/screenshot-inicio.JPG)
-![screenshoot tela curriculo](images/screenshoot-curriculo.JPG) -->
+[screenshoot tela inicial](images/home.png)
+[screenshoot tela curriculo](images/resume.png)
+[screenshoot tela service](images/servie-1.png)
 
 ## Instalação 
 
