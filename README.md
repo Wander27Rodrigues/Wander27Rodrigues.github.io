@@ -1,10 +1,24 @@
+<h4 align="center"> 
+	🚧 🚀 Em construção...  🚧
+</h4>
+
+## Features
+
+- [x] Estrutura do Projeto
+- [x] Criação de Grid
+- [x] Criação de styles.css
+- [ ] Testimonials
+- [ ] Page portfolio
+
+
+
 # Cúrriculo online 
 
 
 Este projeto nada mais é que uma página html estática, que foi utilizada p/ testar conceitos práticos do uso das ferramentas.
 
 <p align="center">
-  <img  src="./images/home.PNG" width="70%" alt="" >
+  <img  src="./images/home.PNG" width="60%" alt="" >
 </p>
 
 <p align="center">
