@@ -3,10 +3,8 @@
 
 Este projeto nada mais é que uma página html estática, que foi utilizada p/ testar conceitos práticos do uso das ferramentas Git e Github.
 <p align="center">
-  <img  src="images/resume.png" width="100%" alt="" >
+  <img  src="./images/resume.png" width="100%" alt="" >
 </p>
-[screenshoot tela curriculo]()
-[screenshoot tela service](images/servie-1.png)
 
 ## Instalação 
 
