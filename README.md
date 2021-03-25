@@ -1,10 +1,17 @@
 # Cúrriculo online 
 
 
-Este projeto nada mais é que uma página html estática, que foi utilizada p/ testar conceitos práticos do uso das ferramentas Git e Github.
+Este projeto nada mais é que uma página html estática, que foi utilizada p/ testar conceitos práticos do uso das ferramentas.
 
 <p align="center">
   <img  src="./images/home.PNG" width="100%" alt="" >
+</p>
+
+<p align="center">
+  <img  src="./images/resume.PNG" width="60%" alt="" >
+</p>
+<p align="center">
+  <img  src="./images/service-1.PNG" width="50%" alt="" >
 </p>
 
 ## Instalação 
@@ -20,11 +27,6 @@ $ git clone
 * 0.0.1;
     * Lançamento inicial.
 
-## Meta 
-
 Wander Rodrigues De Souza - <wanderordrigues_@outlook.com>
 
-[@jonathansouza]:https://www.linkedin.com/in/perfil-in/
-
-Distribuido sob licença. Veja **`LICENÇA`** para mais informações.
 
