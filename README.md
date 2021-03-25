@@ -25,7 +25,7 @@ Este projeto nada mais é que uma página html estática, que foi utilizada p/ t
   <img  src="./images/resume.PNG" width="60%" alt="" >
 </p>
 <p align="center">
-  <img  src="./images/service-1.PNG" width="50%" alt="" >
+  <img  src="./images/service-1.PNG" width="60%" alt="" >
 </p>
 
 ## Instalação 
