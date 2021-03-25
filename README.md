@@ -15,7 +15,7 @@
 # Cúrriculo online 
 
 
-Este projeto nada mais é que uma página html estática, que foi utilizada p/ testar conceitos práticos do uso das ferramentas **HTMLE, CSS AND JAVASCRIPT**
+Este projeto nada mais é que uma página html estática, que foi utilizada p/ testar conceitos práticos do uso das ferramentas **HTML, CSS AND JAVASCRIPT**
 
 <p align="center">
   <img  src="./images/home.PNG" width="60%" alt="" >
