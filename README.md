@@ -4,7 +4,7 @@
 Este projeto nada mais é que uma página html estática, que foi utilizada p/ testar conceitos práticos do uso das ferramentas.
 
 <p align="center">
-  <img  src="./images/home.PNG" width="100%" alt="" >
+  <img  src="./images/home.PNG" width="70%" alt="" >
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ Este projeto nada mais é que uma página html estática, que foi utilizada p/ t
 Basta clonar o repositório da forma desejada.
 
 ```
-$ git clone 
+$ git clone git@github.com:Wander27Rodrigues/site_wander.git
 ```
 
 ## Histórico de atualização 
