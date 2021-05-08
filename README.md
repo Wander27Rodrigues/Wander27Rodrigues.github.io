@@ -2,7 +2,7 @@
 	🚧 🚀 Em construção...  🚧
 </h4>
 
-## Features
+## Tasks
 
 - [x] Estrutura do Projeto
 - [x] Criação de Grid
